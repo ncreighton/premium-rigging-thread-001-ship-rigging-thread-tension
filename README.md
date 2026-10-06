@@ -1,0 +1,2 @@
+# premium-rigging-thread-001-ship-rigging-thread-tension
+Tired of your meticulously crafted ship rigging sagging or snapping because you can't get the thread tension right? Stop guessing and start building museum-quality models with a system that eliminates trial and error.  This Notion template transforms the chaotic process of balancing thread tension into a repeatable, organized workshop. It provides
